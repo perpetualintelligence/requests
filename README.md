@@ -1,2 +1,2 @@
 # requests
-The global issues and enhancement requests repo.
+This repo tracks issues and enhancement requests across all our public and private repos, apps, and services.
